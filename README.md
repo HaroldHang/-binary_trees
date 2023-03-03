@@ -1,1 +1,2 @@
-#BINARY TREES
+## BINARY TREES
+Binary trees
